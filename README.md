@@ -1,7 +1,7 @@
 # Amphibians
 App maded with Google Developers Guide. 
 
-##Technologies: 
+Technologies:
 - Coil,
 - Android  Architecture with Definity Injection And repository,
 - Jetpack Compose,
